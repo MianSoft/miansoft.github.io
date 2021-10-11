@@ -4,8 +4,8 @@
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
         "title": "测试",
-        "width": 1920,
-        "height": 1468,
+        "width": 1413,
+        "height": 1080,
         "position": "center",
         "icon": "icon/icon.png"
     }
