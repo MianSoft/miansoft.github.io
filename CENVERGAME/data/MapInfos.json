@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"公寓","order":3,"parentId":0,"scrollX":495,"scrollY":320},
+{"id":2,"expanded":true,"name":"公寓走廊","order":4,"parentId":1,"scrollX":1599,"scrollY":298.6666666666667},
+{"id":3,"expanded":true,"name":"无限走廊","order":2,"parentId":0,"scrollX":759.6666666666666,"scrollY":304},
+{"id":4,"expanded":false,"name":"初始","order":1,"parentId":0,"scrollX":465,"scrollY":298.6666666666667},
+{"id":5,"expanded":true,"name":"公寓一楼","order":6,"parentId":8,"scrollX":465,"scrollY":298.6666666666667},
+{"id":6,"expanded":true,"name":"MAP006","order":13,"parentId":5,"scrollX":459.6666666666667,"scrollY":298.6666666666667},
+{"id":7,"expanded":true,"name":"MAP007","order":8,"parentId":5,"scrollX":1291,"scrollY":656},
+{"id":8,"expanded":true,"name":"电梯","order":5,"parentId":2,"scrollX":465,"scrollY":298.6666666666667},
+{"id":9,"expanded":false,"name":"保安室","order":7,"parentId":5,"scrollX":459.6666666666667,"scrollY":298.6666666666667},
+{"id":10,"expanded":true,"name":"电脑桌面","order":9,"parentId":7,"scrollX":459.6666666666667,"scrollY":298.6666666666667},
+{"id":11,"expanded":true,"name":"W1 CHAT","order":10,"parentId":10,"scrollX":459.6666666666667,"scrollY":298.6666666666667},
+{"id":12,"expanded":true,"name":"通讯录","order":11,"parentId":11,"scrollX":459.6666666666667,"scrollY":298.6666666666667},
+{"id":13,"expanded":false,"name":"邮件","order":12,"parentId":12,"scrollX":459.6666666666667,"scrollY":298.6666666666667}
+]
