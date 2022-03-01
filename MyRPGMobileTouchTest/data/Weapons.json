@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":6,"description":"【剑】轻巧易操作的短剑。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"短剑","note":"","params":[0,0,8,0,0,0,0,0],"price":300,"wtypeId":2},
+{"id":2,"animationId":6,"description":"【剑】一把细长的战斗剑，拥有锋利的刀口。","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"长剑","note":"","params":[0,0,12,0,0,0,0,0],"price":670,"wtypeId":2}
+]
